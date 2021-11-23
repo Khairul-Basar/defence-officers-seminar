@@ -1,0 +1,17 @@
+.header-container{
+    margin-top: 0;
+    background-image: linear-gradient(to top, white, rgb(72 154 236 / 63%));
+    text-align: center;
+    color: salmon;
+    height: 150px;
+    padding: 50px 20px 0 20px;
+}
+.header-container h2{
+    margin-top: 0;
+    color: rgb(255, 251, 251);
+}
+.header-container p{
+    color: rgb(204, 101, 135);
+    font-weight: bold;
+    font-size: 18px;
+}

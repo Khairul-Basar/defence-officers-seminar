@@ -1,0 +1,15 @@
+.cart-container{
+    padding: 10px;
+    border: 1px solid salmon;
+    border-radius: 5px;
+}
+
+.cart-container h3{
+    margin-bottom: 10px;
+}
+.cart-container p{
+    margin-top: 3px;
+}
+.cart-container img{
+    width: 70px;
+}

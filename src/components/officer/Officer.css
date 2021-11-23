@@ -1,0 +1,41 @@
+.officer-profile{
+    border: 2px solid rgb(72 154 236 / 32%);
+    border-radius: 10px;
+    
+    text-align: center;
+    color: gray;
+}
+.img-background{
+    background-image: linear-gradient(to top, white, rgb(72 154 236 / 32%));
+    border-radius: 8px;
+    padding-top: 3px;
+    margin: 1px;
+}
+.officer-profile img{
+    width: 150px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+.info-container{
+    padding: 10px 20px;
+}
+h3{
+    margin: 0;
+}
+.officer-info{
+    font-weight: bold;
+}
+.info-container button{
+    border: 2px solid rgb(72 154 236 / 32%);
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 7px 20px;
+    font-weight: bold;
+    color: rgb(49 139 228);
+    box-shadow: rgb(72 154 236 / 32%) 0px 5px 15px;
+    cursor: pointer;
+}
+.info-container button:hover{
+    background-color: rgb(94 158 222);
+    color: white;
+}
